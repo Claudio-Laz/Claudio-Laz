@@ -3,8 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=50&lines=;Analista+de+Datos;Inteligencia+de+Negocios;Desarrollo+de+Software"></a>
 </p>
 
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>  Acerca de mi</b>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - Tres años y medio de experiencia como analista de datos.
 - Creé y lideré un departamento de Inteligencia Comercial.
@@ -35,17 +36,24 @@
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2g3MzkwajYzaHNzMjRxYm0zbHY1dW5weXUzc3ppNXozcXZxdG91eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NHGNNltlYAHO9bbWLb/giphy.gif" width="25"> **Contáctame**
 
+<p align="center">
+¿Te interesa colaborar, conversar o conocer más sobre mi?
+</p>
 
-
-
-<br><br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Contacto</b>
-<br>
-<br>
-
-<div align='center'>
-<a href="https://www.instagram.com/claudio.lazcano/">
-	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-<a href="">
-	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</div>
+<p align="center">
+	<a href="https://wa.me/522225991337">
+	  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+	</a>
+	<a href="https://www.claudiolazcano.mx">
+	<img src="https://img.shields.io/badge/Web%20Personal-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+	</a>
+	<a href="mailto:claudio.lazcano.m@gmail.com">
+	<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
+	<a href="https://linkedin.com/in/claudiolazcano">
+	<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	<a href="https://www.instagram.com/claudio.lazcano/">
+	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+	</a>
+</p>
