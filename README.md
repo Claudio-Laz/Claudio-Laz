@@ -37,21 +37,21 @@
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2g3MzkwajYzaHNzMjRxYm0zbHY1dW5weXUzc3ppNXozcXZxdG91eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NHGNNltlYAHO9bbWLb/giphy.gif" width="25"> **Contáctame**
 
 <p align="center">
-¿Te interesa colaborar, conversar o conocer más sobre mi?
+¿Te interesa colaborar o conocer más sobre mi?
 </p>
 
 <p align="center">
-	<a href="https://wa.me/522225991337">
-	  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-	</a>
 	<a href="https://www.claudiolazcano.mx">
 	<img src="https://img.shields.io/badge/Web%20Personal-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+	</a>
+	<a href="https://linkedin.com/in/claudiolazcano">
+	<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<a href="mailto:claudio.lazcano.m@gmail.com">
 	<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
-	<a href="https://linkedin.com/in/claudiolazcano">
-	<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+	<a href="https://wa.me/522225991337">
+	  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 	</a>
 	<a href="https://www.instagram.com/claudio.lazcano/">
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
