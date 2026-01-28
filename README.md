@@ -13,7 +13,7 @@
 - Desarrollé automatizaciones en múltiples procesos ahorrando entre 67% y 92% del tiempo productivo.
 - Colaboré en la aplicación de estrategias comerciales para aumentar las ventas globales un 7%.
 - Visita mi [página personal.](https://www.claudiolazcano.mx)
-- Actualmente estos aprendiendo a profundidad:
+- Actualmente estoy aprendiendo:
 	- Nube.
  	- Machine learning.
 
